@@ -1,8 +1,12 @@
 {
-    "id": "a60c7811-1f57-487a-8481-d2d563109f6b",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "reset_acid",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Game Logic",
+    "path": "folders/Scripts/Game Logic.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "reset_acid",
+  "tags": [],
+  "resourceType": "GMScript",
 }

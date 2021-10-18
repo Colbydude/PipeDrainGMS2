@@ -1,8 +1,12 @@
 {
-    "id": "ac53ecca-aa88-4e59-857d-ac8d25fcb96b",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "generate_new_pieces",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Game Logic",
+    "path": "folders/Scripts/Game Logic.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "generate_new_pieces",
+  "tags": [],
+  "resourceType": "GMScript",
 }

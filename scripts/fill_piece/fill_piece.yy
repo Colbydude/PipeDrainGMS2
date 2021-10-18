@@ -1,8 +1,12 @@
 {
-    "id": "b839f425-4719-4679-9383-037afc681826",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "fill_piece",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Game Logic",
+    "path": "folders/Scripts/Game Logic.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "fill_piece",
+  "tags": [],
+  "resourceType": "GMScript",
 }

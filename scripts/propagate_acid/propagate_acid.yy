@@ -1,8 +1,12 @@
 {
-    "id": "13a1a892-2cb4-4bd9-bbda-ecc835b19312",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "propagate_acid",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Game Logic",
+    "path": "folders/Scripts/Game Logic.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "propagate_acid",
+  "tags": [],
+  "resourceType": "GMScript",
 }

@@ -1,5 +1,7 @@
 /// @description Fill the specified piece.
 /// @param x
 /// @param y
-piece = get_square(argument0, argument1);
-piece.filled = true;
+function fill_piece(x, y) {
+	piece = get_square(x, y);
+	piece.filled = true;
+}
